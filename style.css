@@ -1,0 +1,77 @@
+.heading{
+    text-align: center;
+}
+p{
+    color: rgb(171, 166, 166);
+}
+.box{
+    width: 30%;
+    height: 85vh;
+  
+     display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+.upperbody{
+    display: flex;
+   justify-content: center;
+   height:30% ;
+   /* background-color: rgb(171, 161, 219); */
+}
+.text{
+    
+    font-size: 3vw;
+    width: 35vw;
+    
+}
+.one{
+    background-color: rgb(93,93,93);
+}
+.one h2{
+    color: aliceblue;
+    margin-left: 30%;
+}
+.two{
+    background-color: rgb(58,58,58);
+}
+.two h2{
+    color: white;
+    margin-left: 30%;
+}
+.three{
+   background-color:  rgb(17,17,17);
+}
+.three h2{
+    color:   rgb(14, 206, 216);
+    margin-left: 30%;
+ }
+.middleBody{
+    padding:20px;
+}
+.middleBody p{
+    font-size: 15px;
+}
+.lowerBody {
+    
+    padding: 1rem;
+  
+    
+}
+
+
+.lowerBody iframe{
+    
+    width: 100%;
+  
+    
+}
+.footer{
+    margin-top: -2em;
+}
+.footp{
+    padding:20px;
+      
+}
+
